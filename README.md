@@ -1,3 +1,22 @@
+# Producter Widget Figma
+
+A widget for Figma to interact with Producter
+
+## Technologies
+
+* React
+* Figma
+
+## Setup
+
+To run this project:
+Clone the git repository
+
+```
+$npm run build
+```
+
+
 Below are the steps to get your widget running. You can also find instructions at:
 
 https://www.figma.com/widget-docs/setup-guide/
