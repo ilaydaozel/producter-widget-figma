@@ -1,0 +1,9 @@
+{
+    "name": "Producter",
+    "id": "1162899268971477727",
+    "api": "1.0.0",
+    "main": "dist/code.js",
+    "editorType": ["figma", "figjam"],
+    "containsWidget": true,
+    "widgetApi": "1.0.0"
+}
